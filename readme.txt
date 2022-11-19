@@ -3,7 +3,8 @@ Proje amacı
  Bunları dictonary oluştur.
 ****************************************************************************************************
 
-Main.py içerisinde pdfquery kütüphanesi kullanıldı beyanname_page1.xml içindeki dataların bbox değeri pushdata fonksiyonu içerisine atıldığında textini veriyor.
+Main.py içerisinde pdfquery kütüphanesi kullanıldı beyanname_page1.xml içindeki dataların bbox değeri pushdata fonksiyonu içerisine 
+atıldığında textini veriyor.
 
 
 
