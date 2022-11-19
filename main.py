@@ -19,28 +19,39 @@ def pdfscrape(pdf,bboxes,names):
     for i in range(len(bboxes)):
         text = pdf.pq(bboxes[i]).text()
         dic[names[i]] = text
-        print(text)
+        print(type(text))
     return(dic)
 
+def findvaluefromposition(pos):
+    position = pos.split(',')
+    position[1] = str(int(position[1]) + 400) #y0
+    position[3] = str(int(position[3]) + 300) #y1
+
+    positionew = ""
+    for i in range(len(position)):
+        positionew += position[i] + ','
+    print(pos)
+    print(positionew[:-1])
+    return positionew[:-1]
+
+findvaluefromposition('35, 300, 220, 350')
+
+# pushdata('Taşınmaz satış kazancı', '35, 330.87, 220, 339.87')
+pushdata('Taşınmaz satış değer'  , '500, 325.7, 560, 334.7')
+
+
+# pushdata('İştirak kazançları istisnası'      , '35, 296.52, 220, 315.87')
+# pushdata('İştirak kazançları istisnası değer', '500, 301.7, 560, 310.7')
 
 
 
-pushdata('Taşınmaz satış kazancı', '35.0, 330.87, 221.381, 339.87')
-pushdata('Taşınmaz satış değer'  , '514.98, 325.7, 559.998, 334.7')
-
-
-pushdata('İştirak kazançları istisnası'      , '35.0, 296.52, 216.395, 315.87')
-pushdata('İştirak kazançları istisnası değer', '519.99, 301.7, 560.004, 310.7')
+# pushdata('Diğer indirimler ve istisnalar', '35, 277.7, 220, 286.7')
+# pushdata('Diğer indirimler değer'        , '500, 277.7, 560, 286.7')
 
 
 
-pushdata('Diğer indirimler ve istisnalar', '35.0, 277.7, 146.465, 286.7')
-pushdata('Diğer indirimler değer'        , '514.98, 277.7, 559.998, 286.7')
-
-
-
-pushdata('Toplam'      , '35.0, 257.7, 64.997, 266.7')
-pushdata('Toplam değer', '514.98, 257.7, 559.998, 266.7')
+# pushdata('Toplam'      , '35, 257.7, 220, 266.7')
+# pushdata('Toplam değer', '500, 257.7, 560, 266.7')
 
 
 
