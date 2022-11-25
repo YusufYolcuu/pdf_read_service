@@ -1,7 +1,8 @@
+import pdfquery
 from functions import *
 
 
-pdf = pdfquery.PDFQuery('./PDFS/page1.pdf')
+pdf = pdfquery.PDFQuery('../PDFS/page1.pdf')
 pdf.load()
 pdf.tree.write('test1.txt', pretty_print = True)
 
