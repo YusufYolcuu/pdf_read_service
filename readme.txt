@@ -1,5 +1,5 @@
 ************************************************************
-
+pdfquery -> xml olarak döndürerek konumundan değerlere ulaşılınabiliyor.
 Main.py içerisinde pdfquery kütüphanesi kullanıldı beyanname_page1.xml içindeki dataların bbox değeri pushdata fonksiyonu içerisine 
 atıldığında textini veriyor.
 ****************************************************************************************************
@@ -21,4 +21,12 @@ pypdfium2 -> documantasyonunu anlayalmadım. kaynakyok. text ayırma performans�
              https://pypdfium2.readthedocs.io/en/stable/readme.html#usage
 
 
-excalibur ->  releases olarak denedim cemalot kütüphanesini kullanıyor beyannameleri algılamıyor.
+excalibur ->  uygulama olarak indirip denedim. cemalot kütüphanesini kullanıyor beyannameleri algılamıyor.
+
+
+aspose.pdf for python -> download: https://docs.aspose.com/pdf/java/download-and-configure-aspose-pdf-in-python/
+
+
+
+***********************************************************************************************************
+api: ücretli https://pdftables.com/
