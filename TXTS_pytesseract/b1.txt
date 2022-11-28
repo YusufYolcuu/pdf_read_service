@@ -1,0 +1,164 @@
+ZARAR KAR
+
+Ticari Bilango Kari veya Zarar! 0,00 8.565.431 ,00
+Kanunen Kabul Edilmeyen Giderler 10.045.827,00
+Zarar Olsa Dahi Indirilecek Istisna ve Indirimler 3.618.395,00
+
+Kar ve llaveler Toplam! 18.611.258,00
+Zarar ve Indirimler Toplami 3.618.395,00
+
+Zarar 0,00
+
+Kar 14.992.863,00
+Mahsup Edilecek Gegmis YI Zararlari 48.228.457,00
+
+Indirime Esas Tutar 0,00
+Toplam 0,00
+Donem Zarari 0,00
+Isletmeden Cekilen Enflasyon Duzeltmesi Farklar! 0,00
+Safi Gegici Vergi Matrahi 0,00
+KVK’nin 32/A Mad. Kapsaminda Indirimli Kurumlar Vergisine (Gecici Vergiye) Tabi Matrah 0,00
+KVK’nin 32/A Mad. Kapsaminda Indirimli Kurumlar Vergisi (Gegici Vergi) Oran 0
+KVK’nin Gecici 4 Mad. Kapsaminda Indirimli Kurumlar Vergisine (Gecici Vergiye) Tabi Matrah 0,00
+KVK’nin Gecici 4 Mad. Kapsaminda Indirimli Kurumlar Vergisi (Gecici Vergi) Oran 0
+Genel Orana Tabi Gegici Vergi Matrahi 0,00
+
+VERGI BILDIRIMI
+
+Gecici Vergi Matrah 0,00
+Hesaplanan Geegici Vergi 0,00
+Onceki Dénemlerde Hesaplanan Gecici Vergi 0,00
+Odenmesi Gereken Gecici Vergi 0,00
+Mahsup Edilecek Yabanci Ulkelerde Odenen Vergi Tutar! 0,00
+Mahsup Edilecek Tevkifat Tutar! 1.331.471,79
+Mahsup Edilecek Gegici Vergi ve Tevkifat Tutar! Toplam! 1.331.471,79
+Odenecek Gecici Vergi 0,00
+Sonraki Doneme Devreden Yabanci Ulkelerde Odenen Vergi Tutar! 0,00
+Sonraki Doneme Devreden Tevkifat Tutar 1.331.471,79
+Sonraki Doneme Devreden Hesaplanan Gecici Vergi 0,00
+Damga Vergisi 42,60
+
+Kazancin Tespit Yontemi Bilango
+********************************************************************************************
+
+
+SOLO GELIR TABLOSU (BIN TL )
+
+Aciklama
+
+. A. Hayat Dis! Teknik Gelir
+
+. Kazanilmis Primler (Reasuror Pay! Dusulmus Olarak)
+
+. Yazilan Primler (Reasuror Pay: Dusulmus Olarak)
+. Brut Yazilan Primler (+)
+
+Cari Donem
+(2013)
+
+. KazaniImamis Primler Karsiliginda Degisim (Reasuror Pay! ve Devreden Kisim
+
+. Kazanilmamis Primler Karsiligi (-)
+
+. Devam Eden Riskler Karsiliginda Degisim (Reasuror Pay! ve Devreden Kisim
+
+. Devam Eden Riskler Karsilig1(-)
+
+. Teknik Olmayan Bolumden Aktarilan Yatirim Gelirleri
+. Diger Teknik Gelirler (Reasuror Pay: Dusulmus Olarak)
+
+. Hayat Dis! Teknik Gider(-)
+
+. Gergeklesen Hasarlar (Reasuror Pay: DusulmUs Olarak)
+. Odenen Tazminatlar ( Reastirér Pay: Dustilmis Olarak))
+
+. Brit Odenen Tazminatlar (-)
+
+. Muallak Hasarlar Karsiliginda Degisim (Reasuror Pay! ve Devreden Kisim
+
+. Muallak Tazminatlar Karsiligi (-)
+
+. Diger Teknik Karsiliklarda Degisim (Reasuror Pay! ve Devreden Kisim Dusulmus
+
+. Diger Teknik Karsiliklarda Degisim (Reasuror Pay! ve Devreden Kisim Dusulmus
+
+1
+1
+1
+2
+2
+3
+2
+2
+.3
+. 3.1. Diger Teknik Gelirler (+)
+B
+1
+1
+1
+2
+2
+3
+2
+4
+
+. 4. Faaliyet Giderleri(-)
+. C. Teknik Bolum Dengesi - Hayat Disi (A - B)
+. C. Teknik Bolum Dengesi - Hayat Disi (A - B)
+. J. Genel Teknik Bolum Dengesi (C + F + 1)
+. K. Yatirim Gelirleri
+
+1. Finansal Yatirimlardan Elde Edilen Gelirler
+. 4. Kambiyo Karlar1
+. 9. Diger Yatirimlar
+
+L . Yatirim Giderleri(-)
+
+Beyannameyi Duzenleyen Mukellef / SM / SMMM
+
+177.997
+167.708
+179.859
+179.959
+-8.474
+8.474
+-3.777
+3.777
+7.541
+2.748
+2.748
+165.298
+114.674
+99.200
+99.200
+15.474
+15.474
+877
+877
+49.747
+12.699
+12.699
+12.699
+15.203
+9.647
+5.303
+253
+12.255
+SOLO GELIR TABLOSU (BIN TL )
+
+Aciklama Cari Donem
+(2013)
+. 1. Yatirim Yonetim Giderleri - Faiz Dahil (-) 2.539
+. 4. Hayat Dis! Teknik Bolumune Aktarilan Yatirim Gelirleri (-) 7.541
+. 6. Kambiyo Zararlari (-) 2.071
+. 8. Diger Yatirim Giderleri (-) 104
+M . Diger Faaliyetlerden ve Olagandisi Faaliyetlerden Gelir ve Karlar ile Gider ve -7.186
+1. Karsiliklar Hesabi -8.885
+2. Karsiliklar Hesabi (-) 8.885
+. 5. Ertelenmis Vergi Varlig! Hesabi 1.965
+. 1. Ertelenmis Vergi Varligi Hesabi (+) 1.965
+7. Diger Gelir ve Karlar 124
+8. Diger Gider ve Zararlar (-) 390
+N . Donem Net Kari veya Zarar| 8.565
+1. Donem Kari ve Zararl 8.565
+1. Donem Kari 8.565

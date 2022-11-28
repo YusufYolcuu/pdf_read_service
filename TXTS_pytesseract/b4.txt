@@ -1,0 +1,205 @@
+GECMIS YIL ZARARLARI
+
+Yl Tip Zarar
+
+2008 Diger Zararlar 5.946 ,39
+2009 Diger Zararlar 3.548 ,12
+2010 Diger Zararlar 7.061,81
+
+2011 Diger Zararlar 18.869,02
+2012 Diger Zararlar 25.214,82
+Ticari Bilango Kar 1.416,86
+
+Ticari Bilango Zarar! 0,00
+
+ILAVELER
+Turu Tutar!
+Kanunen Kabul Edilmeyen Giderler 70,80
+Kar ve llaveler Toplam! 1.487,66
+Cari Yila Ait Zarar, Istisna ve Indirimler Toplami 0,00
+ZARAR 0,00
+KAR 1.487,66
+Diger Gegmis Yil Zararlar! 1.487,66
+Istisnadan Kaynaklanan Gecmis Y1I Zararlari 0,00
+Mahsup Edilecek Toplam Gegmis Yil Zararlar! 1.487,66
+Indirime Esas Tutar 0,00
+Donem Safi Kurum Kazanci 0,00
+KVK’nin 32/A Mad. Kapsaminda Indirimli Kurumlar Vergisine Tabi Matrah 0,00
+KVK’nin 32/A Mad. Kapsaminda Indirimli Kurumlar Vergisi Orant 0,000000
+KVK’nin Gecici 4 Mad. Kapsaminda Indirimli Kurumlar Vergisine Tabi Matrah 0,00
+KVK’nin Gecici 4 Mad. Kapsaminda Indirimli Kurumlar Vergisi Orant 0
+Genel Orana Tabi Matrah 0,00
+Isletmeden Cekilen Enflasyon Dizeltmesi Farklari 0,00
+Gelecek Yila Devreden Cari Y1I Zararlar| 0,00
+Safi Kurum Kazancinin Turkiye Disinda Elde Edilen Kism! 0,00
+VERGI BILDIRIMI
+
+Kurumlar Vergisi Matraht 0,00
+Hesaplanan Kurumlar Vergisi 0,00
+Mahsup Edilecek Vergiler Toplami 0,00
+
+Yabanci Ulkelerde Odenen Vergilerden Cari Yilda Mahsup Edilemeyip Gelecek Yila Devreden Kisim 0,00
+Odenmesi Gereken Kurumlar Vergisi 0,00
+ladesi Gereken Kurumlar Vergisi ve/veya Gecici Vergi 0,00
+ladesi Gereken Kurumlar Vergisi 0,00
+ladesi Gereken Gecici Vergi 0,00
+Damga Vergisi 102,20
+Kazancin Tespit Yontemi Bilango
+Bilango Tipi Tek Duzen Hesap Plani(Araci Kur. ve Halka Acik Sirk. Dahil)
+
+****************************************************************
+
+EK BILGILER
+
+Gelecek Yila Devreden AR-GE Indirimi(K.V.K. Mad. 10/1-a) 0,00
+Gelecek Yila Devreden AR-GE Indirimi(5746 Sayili Kanun Mad. 3) 0,00
+Gelecek Yila Devreden Toplam Ar-Ge Indirimi 0,00
+GVK Mulga Madde 19 Kapsaminda Gelecek Yila Devreden Yatirim Indirimi 0,00
+GVK Gegici Madde 61 e Gore Tevkifata Tabi Gelecek Yila Devreden 0.00
+Yatirim Indirimi Istisnasi |
+Gelecek Yila Devreden Toplam Yatirim Indirimi Istisnas! 0,00
+Kismi bolunme yapildi mi? Hayir
+Tam bolunme yapildi mi? Hayir
+Devir yapildi mi? Hayir
+Hisse degisimi var mi ? Hayir
+G.V.K. 40. Mad. Geregi ihracatta goturu gider uygulamasindan yararlandiniz mi? Hayir
+ISLETME HESABINDA DEFTER TUTANLARA ILISKIN PERFORMANS BILGILERI
+Gelir 0,00
+Gider 0,00
+Finansman Giderleri 0,00
+Amortisman Giderleri 0,00
+
+
+EKLER
+TEK DUZEN HESAP PLANI AYRINTILI BILANCO VE AYRINTILI GELIR TABLOSU (TL)
+
+AKTIF
+Aciklama Onceki Dénem Cari Donem
+(2012) (2013)
+|. Donen Varliklar 154.466,32 162.326,38
+. A. Hazir Degerler 13,58 13,58
+3. Bankalar 13,58 13,58
+. E. Stoklar 89.894,49 97.065,47
+7. Verilen Siparis Avanslar 89.894,49 97.065,47
+. G. Gelecek Aylara Ait Giderler ve Gelir Tahakkuklari 0,00 164,78
+1. Gelecek Aylara Ait Giderler 0,00 164,78
+. H. Diger Donen Varliklar 64.558,25 65.082,55
+1. Devreden KDV 64.558,25 65.082,55
+Il. DURAN VARLIKLAR 78.133,54 79.133,54
+. C. Mali Duran Varliklar 78.133 ,54 79.133,54
+3. Istirakler 130.285,00 130.285,00
+4. Istiraklere Sermaye Taahhitleri (-) 52.151 ,46 51.151 ,46
+AKTIF TOPLAMI 232.599 ,86 241.459,92
+
+*******
+PASIF
+Aciklama Onceki Dénem Cari Donem
+(2012) (2013)
+Ill. Kisa Vadeli Yabanci Kaynaklar 276.211,88 283.655,08
+. C. Diger Borglar 275.171,07 283.655,08
+5. Diger Cesitli Borglar 275.171,07 283.655,08
+. F.Odenecek Vergi ve Diger YukUmltlikler 1.040,81 0,00
+
+PASIF
+
+Aciklama Onceki Dénem Cari Donem
+(2012) (2013)
+
+1. Odenecek Vergi ve Fonlar 1.040,81 0,00
+V. Oz Kaynaklar -43.612,02 -42.195,16
+.A. Odenmis Sermaye 95.000,00 95.000,00
+
+1. Sermaye 105.000,00 105.000,00
+
+2. Odenmemis Sermaye (-) 10.000,00 10.000,00
+. E. Gegmis Yillar Zararlari (-) 113.397,20 138.612,02
+
+1. Gegmis Yillar Zararlari (-) 113.397,20 138.612,02
+. F. Donem Net Kari (Zarart) -25.214,82 1.416,86
+
+1. Donem Net Kar! 0,00 1.416,86
+
+2. Donem Net Zarari (-) 25.214,82 0,00
+PASIF TOPLAMI 232.599 ,86 241.459,92
+
+
+DIPNOT
+15. Isletme sahibinin veya sermayesinin %10 ve daha fazlasina sahip ortaklarin :
+
+Adi : OSTIM ENDUSTRIYEL YATIRIMLAR VE ISLETME A.S. Pay Oran : 80.95 Pay Tutari : 84998.00
+
+
+
+GELIR TABLOSU
+
+Aciklama Onceki Dénem Cari Donem
+(2012) (2013)
+
+A. Brut Satislar 4.215.308, 71 0,00
+. 1. Yurtigi Satislar 0,00 0,00
+. 2. Yurtdisi Satislar 4.215.308, 71 0,00
+C.Net Satislar 4.215.308,71 0,00
+D. Satislarin Maliyeti (-) 3.147.960,00 0,00
+. 2. Satilan Ticari Mallar Maliyeti (-) 3.147.960,00 0,00
+Brut Satis Kari veya Zarar! 1.067.348, 71 0,00
+E. Faaliyet Giderleri (-) 1.087.270,28 5.683,31
+. 2. Pazarlama, Satis ve Dagitim Giderleri (-) 1.068.866,41 0,00
+. 3. Genel Yonetim Giderleri (-) 18.403,87 5.683,31
+Faaliyet Kari veya Zarar| -19.921,57 -5.683,31
+F. Diger Faaliyetlerden Olagan Gelir ve Karlar 597,70 7.170,98
+. f. Kambiyo Karlart 597,70 7.170,98
+G. Diger Faaliyetlerden Olagan Gider ve Zararlar (-) 5.998,14 0,00
+. 4. Kambiyo Zararlari (-) 5.998,14 0,00
+Olagan Kar veya Zarar -25.322,01 1.487,67
+|. Olagan Disi Gelir ve Karlar 107,19 0,00
+. 2. Diger Olagandis! Gelir ve Karlar 107,19 0,00
+J. Olagandisi Gider ve Zararlar (-) 0,00 70,81
+. 2. Onceki Dénem Gider ve Zararlari (-) 0,00 70,80
+. 3. Diger Olagandisi Gider ve Zararlar (-) 0,00 0,01
+Donem Kar! veya Zarar! -25.214,82 1.416,86
+Donem Net Kar! veya Zararl -25.214,82 1.416,86
+
+
+
+
+KURUM ORTAKLARINA VE YONETIM KURULU UYELERINE ILISKIN LISTE
+
+Genel _Y. . is Adi / TC ig: .
+Md./ Kurulu Ortak Kencial ‘Weang] Finolik Sayed s Unvanin ikametgah Adresi Kimlik rile Hise
+pet : Temsilci No Unvan Telefon No Orani
+Mudur Uyesi Devam! No
+
+* * 2630024341 CORTU ABDULLAH 100.Y1I Bulvar! No:99-90 Ostim-Ankara 3123853409 0,01
+OSTIM
+* 6480114441 AS. ENDUSTRIYEL 100.Yil Bulvari No:99-90 Ostim-Ankara 3123853409 80,95
+YATIRIMLAR V
+* e4goos4311 SNE OKALK-DAY OsTiM ORTADOGU100.il Bulvani No:99-10 Ostim-Ankara 3123855090 9,52
+: GELIKDOGAN ~—SEDAT Von are Yat NotOTA Ankara: 24992052632 3123855090 4,76
+
+
+
+TRANSFER FIYATLANDIRMASI KAPSAMINDAKI ILISKILI KISILERE ILISKIN BILGILER
+Yurt Icinde Bulunan Iliskili Kisi Adi- Vergi Kimlik T.C. Kimlik Yurt Diginda Bulunan lliskili Kisi Adi Illiskili Kisinin
+
+Unvani Numarasi Numarasi -Unvani
+
+OSTIM ENDUSTRIYEL YATIRIMLAR = 4909444441
+
+Bulundugu Ulke
+
+VE ISL. A.S
+
+
+YABANCI PARA POZISYONUNA ILISKIN BILGILER
+
+Aciklama USD($) TL Karsilig)  EURO(€) TL Kasiigs P'S" Kenley Us
+I-AKTIF (VARLIKLAR) YABANCI PARA TOPLAMI 0,0000 0,0000 0,0000
+. 1.Kasa 0,0000 0,0000 0,0000
+IIl- NET BILANGO IGi YABANCI PARA 0,0000 0,0000 0,0000
+POZISYONU (I-II)
+V- NET YABANCI PARA POZISYONU (III+IV) 0,0000 0,0000 0,0000
+KANUNEN KABUL EDILMEYEN GIDERLER
+
+Giderin Turu Tutar
+Diger 70,8000
+TOPLAM 70,8000

@@ -1,3 +1,7 @@
+pytesseract önce resime dönüştürüp sonra txt'ye atıyor. En doğru sonuç veren yol. biraz yavaş
+
+
+
 ************************************************************
 pdfquery -> xml olarak döndürerek konumundan değerlere ulaşılınabiliyor.
 Main.py içerisinde pdfquery kütüphanesi kullanıldı beyanname_page1.xml içindeki dataların bbox değeri pushdata fonksiyonu içerisine 
