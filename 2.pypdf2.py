@@ -1,6 +1,6 @@
 import PyPDF2
 
-sample_pdf = open(r'./PDFS/b1.pdf', mode='rb')
+sample_pdf = open(r'./PDFS/b5.pdf', mode='rb')
 pdfdoc = PyPDF2.PdfFileReader(sample_pdf)
 
 

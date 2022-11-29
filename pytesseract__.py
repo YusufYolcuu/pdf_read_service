@@ -30,13 +30,12 @@ else:
     out_directory = Path("~").expanduser()    
  
 # Path of the Input pdf
-# PDF_file = Path(r"./PDFS/page1.pdf")
-PDF_file = Path(r"foo.pdf")
+PDF_file = Path(r"./PDFS/beyanname.pdf")
 # Store all the pages of the PDF in a variable
 image_file_list = []
- 
+
 text_file = out_directory / Path("_tex_.txt")
- 
+
 def main():
     ''' Main execution point of the program'''
     with TemporaryDirectory() as tempdir:

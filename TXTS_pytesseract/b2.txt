@@ -1,0 +1,1466 @@
+
+Ticari Bilango Kar! 5.111.872,49
+Ticari Bilango Zararl 0,00
+ILAVELER
+Turu Tutar!
+Kanunen Kabul Edilmeyen Giderler 160.486,49
+Kar ve llaveler Toplami 5.272.358,98
+Cari Yila Ait Zarar, Istisna ve Indirimler Toplami 0,00
+ZARAR 0,00
+KAR 5.272.358 ,98
+Diger Gegmis Yil Zararlar! 0,00
+Istisnadan Kaynaklanan Gecmis Yil Zararlari 0,00
+Mahsup Edilecek Toplam Gegmis Yil Zararlar! 0,00
+indirime Esas Tutar 5.272.358,98
+KAZANCIN BULUNMASI HALINDE INDIRILECEK ISTISNA VE INDIRIMLER
+Turu Aciklama Tutari
+Bagis ve Yardimlar (K.V.K. Mad. 10/1-c) 50.200,00
+Toplam 50.200,00
+Donem Safi Kurum Kazanci 5.222.158,98
+KVK’nin 32/A Mad. Kapsaminda Indirimli Kurumlar Vergisine Tabi Matrah 0,00
+KVK’nin 32/A Mad. Kapsaminda Indirimli Kurumlar Vergisi Orant 0,000000
+KVK’nin Gecici 4 Mad. Kapsaminda Indirimli Kurumlar Vergisine Tabi Matrah 0,00
+KVK’nin Gecici 4 Mad. Kapsaminda Indirimli Kurumlar Vergisi Oran 0
+Genel Orana Tabi Matrah 5.222.158,98
+Isletmeden Cekilen Enflasyon Dizeltmesi Farklari 0,00
+Gelecek Yila Devreden Cari Yil Zararlari 0,00
+Safi Kurum Kazancinin Turkiye Disinda Elde Edilen Kism! 0,00
+VERGI BILDIRIMI
+
+Kurumlar Vergisi Matraht 5.222.158,98
+Hesaplanan Kurumlar Vergisi 1.044.431 ,80
+MAHSUP EDILECEK VERGILER
+
+Turu Tutar!
+Yil Icinde Kesinti Yoluyla Odenen Vergiler 549.452,90
+Odenen Gecici Vergi 741.530,28
+Mahsup Edilecek Vergiler Toplami 1.290.983,18
+Yabanci Ulkelerde Odenen Vergilerden Cari Yilda Mahsup Edilemeyip Gelecek Yila Devreden Kisim 0,00
+Odenmesi Gereken Kurumlar Vergisi 0,00
+ladesi Gereken Kurumlar Vergisi ve/veya Gecici Vergi 246.551,38
+ladesi Gereken Kurumlar Vergisi 0,00
+ladesi Gereken Gecici Vergi 246.551,38
+Damga Vergisi 102,20
+Kazancin Tespit Yontemi Bilango
+Bilango Tipi Tek Duzen Hesap Plani(Araci Kur. ve Halka Acik Sirk. Dahil)
+Beyannamenin Hangi Sifatla Verildigi Beyannameyi Duzenleyen Mukellef / SM / SMMM
+
+
+EK BILGILER
+
+Gelecek Yila Devreden AR-GE Indirimi(K.V.K. Mad. 10/1-a)
+Gelecek Yila Devreden AR-GE Indirimi(5746 Sayili Kanun Mad. 3)
+
+Gelecek Yila Devreden Toplam Ar-Ge Indirimi
+
+GVK Milga Madde 19 Kapsaminda Gelecek Yila Devreden Yatirim Indirimi
+GVK Gecici Madde 61 e Gore Tevkifata Tabi Gelecek Yila Devreden
+Yatirim Indirimi Istisnasi
+
+Gelecek Yila Devreden Toplam Yatirim Indirimi Istisnasi
+
+Kismi bolunme yapildi mi?
+Tam bolunme yapildi mi?
+Devir yapildi mi?
+
+Hisse degisimi var mi ?
+
+G.V.K. 40. Mad. Geregi ihracatta goturu gider uygulamasindan yararlandiniz mi?
+
+Yararlanilan Tutar (TL)
+
+0,00
+0,00
+0,00
+0,00
+
+0,00
+
+0,00
+
+Hayir
+Hayir
+Hayir
+Hayir
+
+Evet
+
+180.351 ,2300
+
+ISLETME HESABINDA DEFTER TUTANLARA ILISKIN PERFORMANS BILGILERI
+
+Gelir
+Gider
+Finansman Giderleri
+
+Amortisman Giderleri
+
+EKLER
+
+TEK DUZEN HESAP PLANI AYRINTILI BILANCO VE AYRINTILI GELIR TABLOSU (TL )
+
+0,00
+0,00
+0,00
+0,00
+
+AKTIF
+
+Aciklama Onceki Dénem
+(2012)
+196.722.868,47
+48.090.267 ,32
+
+|. Donen Varliklar
+. A. Hazir Degerler
+
+1. Kasa 15.819,86
+2. Alinan Cekler 4.602.612,91
+3. Bankalar 43.471.834,55
+. B. Menkul Kiymetler 0,00
+1. Hisse Senetleri 0,00
+. C. Ticari Alacaklar 40.592.268,16
+1. Alicilar 36.854.446,98
+2. Alacak Senetleri 41.724,00
+5. Verilen Depozito ve Teminatlar 488.101,69
+6. Diger Ticari Alacaklar 3.207.767,19
+7. Supheli Ticari Alacaklar 1.493.989,06
+8. Supheli Ticari Alacaklar Karsiligi (-) 1.493.760,76
+. D. Diger Alacaklar 631,99
+2. Istiraklerden Alacaklar 631,99
+. E. Stoklar 22.077.626,89
+1. Ik Madde ve Malzeme 12.893.501,53
+2. Yar! Mamuller - Uretim 983.450,48
+3. Mamuller 6.099.508,77
+
+4. Ticari Mallar 1.810.444 35
+5. Diger Stoklar 525,00
+
+Cari Donem
+
+279.279.820,23
+
+23.382.143,46
+12.236,53
+5.676.613,11
+17.693.293,82
+497.085,80
+497.085,80
+67.058.822,84
+63.203.948,20
+57.000,00
+580.089,98
+3.217.784,66
+1.791.038,67
+1.791.038,67
+4.991,77
+4.991,77
+35.985.658,17
+17.239.796,91
+1.678.919,72
+10.985.556,26
+2.728.022,14
+1.363,86
+
+TEK DUZEN HESAP PLANI AYRINTILI BILANCO VE AYRINTILI GELIR TABLOSU (TL )
+
+AKTIF
+
+Aciklama
+
+7. Verilen Siparis Avanslar
+
+_F. Yillara Yaygin Insaat ve Onarim Maliyetleri
+1. Yillara Yaygin Ingaat ve Onarim Maliyetleri
+3. Taseronlara Verilen Avanslar
+
+. G. Gelecek Aylara Ait Giderler ve Gelir Tahakkuklar
+1. Gelecek Aylara Ait Giderler
+2. Gelir Tahakkuklari
+
+. H. Diger Donen Varliklar
+
+. Devreden KDV
+
+. Diger KDV
+
+. Pesin Odenen Vergiler ve Fonlar
+
+_ Is Avanslari
+
+. Personel Avanslar
+
+oonrrt wo =
+
+. Diger Gesitli Donen Varliklar
+Il. DURAN VARLIKLAR
+. C. Mali Duran Varliklar
+1. Bagli Menkul Kiymetler
+6. Bagli Ortakliklar
+7. Bagli Ortakliklar Sermaye Taahutleri (-)
+. D. Maddi Duran Varliklar
+. Arazi ve Arsalar
+
+. Yer Alti ve Yer Ustti Duzenleri
+. Binalar
+
+. Tesis, Makina ve Cihazlar
+
+. Tasitlar
+
+. Demirbaslar
+
+. Birikmis Amortismanlar (-)
+
+oOmae na WN —
+
+. Yapilmakta Olan Yatirimlar
+. 10. Verilen Avanslar
+. E. Maddi Olmayan Duran Varliklar
+1. Haklar
+3. Kurulus ve Orgitlenme Giderleri
+4. Arastirma ve Gelistirme Giderleri
+5. Ozel Maliyetler
+6. Diger Maddi Olmayan Duran Varliklar
+. 7. Birikmis Amortismanlar (-)
+. G. Gelecek Yillara Ait Giderler ve Gelir Tahakkuklar
+1. Gelecek Yillara Ait Giderler
+AKTIF TOPLAMI
+
+Onceki Dénem
+(2012)
+
+290.196,76
+68.238.235,01
+68.193.235,01
+
+45.000,00
+3.144.534 94
+363.050,61
+2.181.484 ,33
+14.579.304,16
+10.890.925,56
+2.593.283,47
+1.035.115,98
+21.891,31
+38.049,91
+37,93
+35.873.515,12
+2.634.183,21
+48,00
+2.634.135,21
+0,00
+14.578.271,51
+
+378.913,32
+
+293.673,95
+
+3.159.453 ,33
+10.489.446,29
+2.309.362,06
+9.650.873,08
+18.154.261,78
+629.019,80
+5.821.791,46
+18.660.848,52
+
+901.814,31
+
+4.465,47
+673.876,36
+1.165.524,77
+21.394.785,32
+5.479.617,71
+211,88
+
+211,88
+232.596.383,59
+
+Cari Donem
+(2013)
+
+3.351.999,28
+126.527.726,31
+126.527.726,31
+0,00
+7.025.126,21
+566.017 ,84
+6.459.108,37
+18.798.265,67
+12.671.435,77
+2.528.164,55
+3.281.761,54
+59.959,44
+254.533,27
+2.411,10
+50.587.177,82
+2.769.183,21
+48,00
+3.174.135,21
+405.000,00
+28.179.061 ,26
+378.913,32
+406.287,31
+7.077.068,76
+15.262.341,89
+5.467.701,18
+11.082.240,84
+21.973.498,18
+861.973,03
+9.616.033,11
+19.565.189,57
+2.444 .965,94
+4.465,47
+673.876,36
+975.157,51
+20.295.132,12
+4.828.407 ,83
+73.743,78
+73.743,78
+329.866.998,05
+
+PASIF
+
+Aciklama
+
+Ill. Kisa Vadeli Yabanci Kaynaklar
+. A. Mali Borglar
+1. Banka Kredileri
+. B. Ticari Borglar
+1. Saticilar
+2. Borg Senetleri
+4. Alinan Depozito ve Teminatlar
+5. Diger Ticari Borglar
+. C. Diger Borglar
+
+Onceki Dénem
+(2012)
+
+149.917.365,99
+21.192.290,38
+21.192.290,38
+84.756.913,09
+73.909.248,27
+10.041.357,28
+763.020,51
+43.287 ,03
+1.060.748,85
+
+Cari Donem
+(2013)
+
+199.317.160,36
+36.492.709,23
+36.492.709,23
+44.464.953,26
+31.451.428,45
+12.042.198,72
+928.039,06
+43.287 ,03
+1.170.908,11
+
+PASIF
+
+Aciklama
+
+1. Ortaklara Borclar
+4. Personele Borclar
+5. Diger Cesitli Borglar
+. D. Alinan Avanslar
+1. Alinan Siparis Avanslar
+_E.Yillara Yaygin Ingsaat ve Onarim Hakedisleri
+1. Yillara Yaygin Ingaat ve Onarim Hakedis Bedelleri
+. F.Odenecek Vergi ve Diger YukUmltlikler
+1. Odenecek Vergi ve Fonlar
+2. Odenecek Sosyal Giivenlik Kesintileri
+. G. Borg ve Gider Karsiliklar!
+1. Donem Kari Vergi ve Diger Yasal Yukumluluk
+2. Dénem Karinin Pesin Odenen Vergi ve Diger
+. H. Gelecek Aylara Ait Gelirler ve Gider Tahakkuklar1
+1. Gelecek Aylara Ait Gelirler
+2. Gider Tahakkuklar!
+IV. Uzun Vadeli Yabanci Kaynaklar
+. A. Mali Borglar
+1. Banka Kredileri
+2. Finansal Kiralama Islemlerinden Borclar
+3. Ertelenmis Finansal Kiralama Borclanma
+. B. Ticari Borglar
+2. Borg Senetleri
+. C. Diger Borglar
+1. Ortaklara Borclar
+V. Oz Kaynaklar
+.A. Odenmis Sermaye
+1. Sermaye
+. C. Kar Yedekleri
+1. Yasal Yedekler
+. D. Gegmis Yil Karlart
+1. Gegmis Yil Karlari
+. F. Donem Net Kari (Zarart)
+1. Donem Net Karl
+PASIF TOPLAMI
+
+Onceki Dénem
+(2012)
+
+201.571,81
+851.798,12
+7.378,92
+359.749,82
+359.749,82
+38.562.710,35
+38.562.710,35
+1.530.276,88
+1.120.595,95
+409.680,93
+126.007,63
+2.840.092,04
+2.114.084,41
+2.328.668,99
+12.812,50
+2.315.856,49
+19.875.299,55
+19.875.299,55
+15.829.372,50
+4.409.005,57
+363.078,52
+0,00
+0,00
+0,00
+0,00
+62.803.718,05
+20.000.000,00
+20.000.000,00
+3.353.830,30
+3.353.830 ,30
+28.183.656,22
+28.183.656,22
+11.266.231,53
+11.266.231,53
+232.596.383,59
+
+Cari Donem
+(2013)
+
+0,00
+880.740,87
+290.167,24
+
+1.975.433,01
+1.975.433,01
+111.138.064,39
+111.138.064,39
+1.012.510,38
+517.417,58
+495.092,80
+0,00
+1.044.431,80
+1.044.431,80
+3.062.581 ,98
+44.100,30
+3.018.481,68
+63.678.678,95
+49.154.190,77
+47.000.303,95
+2.321.497 ,67
+167.610,85
+2.025.700,00
+2.025.700,00
+12.498.788,18
+12.498.788,18
+66.871.158,74
+55.000.000,00
+55.000.000,00
+3.917.141,88
+3.917.141,88
+3.886.576,17
+3.886.576,17
+4.067.440,69
+4.067.440,69
+329.866.998,05
+
+DIPNOT
+
+2013 YILI BILANCO DIPNOTLARI
+
+01. Kayitli sermaye sistemini kabul etmis bulunan ortakliklarda kayitl
+sermaye tavan| : 55.000.000,00 TL
+
+02. Yonetim Kurulu Baskan ve genel sekreter gibi Ust yOneticilere
+a) Cari ddnemde verilen her gesit avans ve borcun
+
+toplam tutar! : 1.426.055,43 TL
+
+b) Cari d6nem sonundaki avans veya borcun
+
+bakiyesi 9.739,66 TL
+
+DIPNOT
+
+03. Aktif degerlerin toplam sigorta tutar) : 82.510.864,14 TL
+
+04. Alacaklar igin alinmis ipotek ve diger teminatlarin toplam tutar
+
+1.000.000,00 TL
+
+05. Yabanci kaynaklar icin verilmis ipotek ve diger teminatlarin toplam
+
+tutar| : 244.630.720,85 TL
+
+06. Pasifte yer almayan taahhutlerin toplam tutar!
+
+07. Kasa ve bankalardaki doviz mevcutlar!
+
+Doviz cinsi Miktar1 TL kuru Toplam tutar
+
+Banka
+
+EURO 133.414,62 2,9365 391.772,04 TL
+USD 1.944.836,08 2,1343 4.150.863,65 TL
+Kasa
+
+EURO 1.352,00 2,9344 3.967,31 TL
+USD 1.143,00 2,1328 2.437,79 TL
+
+08. Yurt disindan alacaklar (Avanslar dahil)
+
+Doviz cinsi Miktar1 TL kuru Toplam tutar
+
+EURO 6.671.849,81 2,9365 19.591.886,97 TL
+USD 1.344.153,82 2,1343 2.868.827,50 TL
+AED 10.172,00 0,58161 5.916,14 TL
+
+09. Yurtdisina borg¢lar (avanslar Dahil)
+
+Doviz cinsi Miktar1 TL kuru Toplam tutar
+
+EURO 54.869,61 2,9365 161.124,61 TL
+
+USD 94.368,20 2,1343 201.410,05 TL
+DIPNOT
+
+10. Tedavuldeki tahvil ve finansman bonolarindan banka garantili
+
+olanlarin tutar! 1 ocucceaeaeaeaececececececesececanevars
+
+11. Cari ve gelecek donemlerde yararlanilacak yatirim indiriminin
+
+toplam tutar! Le eeeeeceeeeeeeaeeeeeeaeeeeeseaeeeeeeees
+
+12. Tedavuldeki tahvillerden hisse senedine donusturulebilir
+
+niteliktekilerin tutar1 we ceceeaeceeeececeeeeceeeeneseeaeneeens
+
+13. Sermayeyi temsil eden hisse senetlerinin dokumuU
+
+Turu Tertibi Adedi Usleri Toplam tutar
+
+15. Isletme sahibinin veya sermayesinin %10 ve daha fazlasina sahip
+ortaklarinin
+
+Adi Pay oranl Pay tutarl
+
+AKMAN ALKUMRU % 62,7727 34.524.000,00 TL
+
+OMER ALKUMRU % 23,7945 13.087.000,00 TL
+
+16. Sermayesinin %10 ve daha fazlasina sahip olunan istirakler ile
+
+muessese ve bagli ortakliklarin
+
+Adi Pay orant Toplam sermayesi Son donem Kari
+
+ALBO TEKS.A.S. % 97,50 200.000,00-TL .............:..0eeee
+MAREKS LTD. % 99,80 50.000,00-TL ....... eee
+ALKA EUROPE GMBH % 99,00 41.515,00 TL ...... ee eeeeeee
+
+AE TAAH.NAK.INS.A.S. % 60,00 900.000,00 TL...
+DIPNOT
+
+17. Stok degerleme yontemi
+
+a) Cari d6nemde uygulanan yontem
+
+.ILK GIREN ILK CIKAR...........00000e
+
+b) Onceki ddnemde uygulanan yéntem
+
+.ILK GIREN ILK CIKAR...........00000e
+
+c) Varsa, cari donemdeki y6ntem degisikliginin stoklarda meydana
+
+getirdigi artis (+) veya azalis (-) tutar!
+
+18. Cari donemdeki maddi duran varlik hareketleri
+
+a) Satin alinan, imal veya insa edilen maddi duran varliklarin
+maliyeti > 12.415.115,75 TL
+
+b) Elden cikarilan veya hurdaya ayrilan maddi duran varliklarin
+mailiyeti 759.799,55 TL
+
+c) Cari donemde ortaya ¢ikan yeniden degerleme artislari
+
+- Varlik maliyetlerinde (+) Le eeeeeeeeseeaeeeeeeeeeeeeaaeeeeeeeees
+
+- Birikmis amortismanlarda (-) Lee eeeeeceeeeeeeeeeeeeeeeeeeeeeeeaes
+
+19. Ana kurulus, bagli ortaklik ve istiraklerin ticari alacak ve ticari
+borclar i¢gindeki paylari
+
+Ticari alacak Ticari borg
+
+Pitt URIS 8 iraameamsns re ommesnemess coe amen © RIN 4 gem 4.12 aR
+secs ogc || ee ene 15.616.085,62 TL
+
+c) Istirakler TEAC Hee! TL = cetemuonennnes cs amanenmmn 50s arennen
+
+20. Cari donemdeki ortalama toplam personel sayis! : 404
+
+21. Bilango tarihinden sonra ortaya cikan ve a¢iklamay! gerektiren
+hususlara iliskin bilgi
+DIPNOT
+
+22. Belli bir 6neme sahip olan, ancak tutarlari tahmin edilemeyen sarta
+
+bagli zararlar ile her turlu sarta bagli kazanglara iliskin bilgi
+
+23. Isletmenin gayri safi kar oranlari Uzerinde 6nemli 6lgtide etkide
+bulunan muhasebe tahminlerinde degisikliklere iliskin bilgi ve
+
+bunlarin parasal etkileri
+
+25. Menkul kiymetler ve bagli menkul ktymetler grubu icginde yer alip
+isletmenin ortaklar1, istirakleri ve bagli ortaklar tarafindan
+¢ikarilmig bulunan menkul kiymet tutarlar! ve bunlar! cikaran
+
+ortakliklar 1 eececeececeeeeceeeeeeceeneeesaeneees
+
+26. Istirakler ve bagli ortakliklarda igsel kaynaklardan yapilan sermaye
+
+artirimi nedeniyle elde edilen bedelsiz hisse senedi tutarlar1
+
+27. Kisa ve uzun vadeli kredilerle ilgili olarak alinan kredilerin ve
+cikarilmig menkul kiymetlerin (katilma intifa senedi dahil) kredi ve
+menkul kitymet turleri itibariyle tahakkuk etmemis gelecek doneme
+
+iliskin faiz borglari tutarlar| > 4.859.062,48 TL
+
+28. Ortaklar, istirakler ve bagli ortakliklar lehine verilen garanti,
+
+taahhut, kefalet, aval, ciro gibi yukumluluklerin tutari
+
+: 537.126.875,00 TL
+
+29. Mali tablolari Onemli olgude etkileyen ya da mali tablolarin agik,
+DIPNOT
+
+yorumlanabilir ve anlasilabilir olmasi agisindan a¢giklanmasi gerekli
+
+olan diger hususlar
+
+30. Bilangonun onaylanarak kesinlestigi tarih =: 31.12.2013
+
+GELIR TABLOSU
+
+Aciklama Onceki Dénem Cari Donem
+
+A. Brut Satislar
+. 1. Yurtigi Satislar
+. 2. Yurtdis! Satislar
+
+(2012)
+108.602.692,94
+52.779.905,42
+54.238.254,14
+
+(2013)
+121.823.547,29
+52.928.153,17
+64.001.782,43
+
+. 3. Diger Gelirler 1.584.533,38 4.893.611,69
+B. Satis Indirimleri (-) 73.250,59 142.031 ,43
+. 1. Satistan ladeler (-) 60.602,29 96.242 ,56
+. 2. Satis Iskontolar1 (-) 12.648,30 45.788,87
+
+C.Net Satislar
+
+D. Satislarin Maliyeti (-)
+
+108.529.442,35
+90.138.330,22
+
+121.681.515,86
+103.612.039,61
+
+. 1. Satilan Mamuller Maliyeti (-) 49.463.446,21 65.161.300,60
+. 2. Satilan Ticari Mallar Maliyeti (-) 20.680,05 3.188.744,97
+. 3. Satilan Hizmet Maliyeti (-) 40.060.936,29 34.528.493,57
+. 4. Diger Satislarin Maliyeti (-) 593.267,67 733.500,47
+
+Brut Satis Kari veya Zarar|
+
+E. Faaliyet Giderleri (-)
+
+18.391.112,13
+11.508.277,60
+
+18.069.476,25
+12.078.642,07
+
+. 1. Arastirma ve Gelistirme Giderleri (-) 893.720,55 444.321,82
+. 2. Pazarlama, Satis ve Dagitim Giderleri (-) 6.020.615,06 5.815.803,56
+. 3. Genel Yonetim Giderleri (-) 4.593.941 ,99 5.818.516,69
+Faaliyet Kari veya Zarar! 6.882.834,53 5.990.834,18
+
+F. Diger Faaliyetlerden Olagan Gelir ve Karlar
+
+12.038.250,38
+
+12.041.794,43
+
+. 3. Faiz Gelirleri 3.251.659,16 1.622.568,52
+. 5. Konusu Kalmayan Karsiliklar 0,00 77.360,00
+. ?. Kambiyo Karlart 4.467.352,13 5.709.866, 74
+. 10. Diger Olagan Gelir ve Karlar 4.319.239,09 4.631.999,17
+G. Diger Faaliyetlerden Olagan Gider ve Zararlar (-) 3.623.881 ,48 3.980.380,36
+. 2. Karsilik Giderleri (-) 110.929,97 374.637,91
+. 3. Menkul Kiymet Satis Zararlart (-) 0,00 43.911,85
+. 4. Kambiyo Zararlari (-) 3.220,006,733 3.261.649,50
+. 7. Diger Olagan Gider ve Zararlar (-) 287.094,78 300.181,10
+H. Finansman Giderleri (-) 1.327.813,58 9.553.531,30
+. 1. Kisa Vadeli Borglanma Giderleri (-) 920.701 ,58 9.311.163,51
+. 2. Uzun Vadeli Borglanma Giderleri (-) 407.112,00 242.367,79
+
+Olagan Kar veya Zarar 13.969.389,85 4.498.716,95
+GELIR TABLOSU
+
+Aciklama
+
+|. Olagan Disi Gelir ve Karlar
+
+. 2. Diger Olagandis! Gelir ve Karlar
+
+J. Olagandis! Gider ve Zararlar (-)
+
+. 3. Diger Olagandis! Gider ve Zararlar (-)
+Donem Kar! veya Zarar!
+
+K. Donem Kari, Vergi ve Diger Yasal Yukumluluk
+
+Donem Net Kari veya Zarari
+
+Onceki Donem
+(2012)
+
+231.070,33
+231.070,33
+94.136,61
+94.136,61
+14.106.323,57
+2.840.092,04
+11.266.231,53
+
+Cari Donem
+(2013)
+
+723.442,03
+723.442,03
+110.286,49
+110.286,49
+9.111.872,49
+1.044.431,80
+4.067.440,69
+
+DIPNOT
+
+2013 YILI GELIR TABLOSU DIP NOTLARI
+
+01. Dénemin bitin amortisman giderleri ile itfa ve tukenme paylari
+
+a) Amortisman giderleri : 3.026.970,61 TL
+
+- Normal amortisman giderleri ; 3.026.970,61 TL
+
+- Yeniden degerlemeden dogan
+
+amortisman giderleri
+
+b) Itfa ve tukenme paylari 929.169,46 TL
+
+02. Donemin karsilik giderleri : 374.637,91 TL
+03. Dénemin tum finansman giderleri : 21.861.675,14 TL
+a) Uretim maliyetine verilenler : 9.366.629,24 TL
+
+b) Sabit varliklarin maliyetine
+
+verilenler 1.370.659,98 TL
+c) Dogrudan gider yazilanlar 9.553.531,30 TL
+d) Taahhiutlere verilen : 1.570.854,62 TL
+
+04. Donemin finansman giderlerinden ana kurulus, ana ortaklik, muessese,
+
+bagli ortaklik ve istiraklerle ilgili kKismin tutar! (Toplam tutar
+
+igindeki paylari %20'yi asanlar ayrica gdsterilecektir)
+
+906.847 ,82 TL
+
+DIPNOT
+
+05. Ana kurulus, ana ortaklik, muessese, bagli ortaklik ve istiraklerle
+
+yapilan satislar (Toplam tutar igindeki paylari %20'yi asanlar ayrica
+
+gosterilecektir) 38.895.957,79 TL
+
+(Alka Europe Gmbh : 38.785.212,06 TL)
+
+06. Ana kurulus, ana ortaklik, muessese, bagli ortaklik ve istiraklerden
+
+alinan ve bunlara 6denen faiz, kira ve benzerleri (Toplam tutar
+
+igindeki paylar! %20'yi asanlar ayrica gésterilecektir)
+
+07. Yonetim kurulu baskan ve Uyeleriyle genel mudur, genel koordinator,
+
+genel mudtr yardimcilari gibi Ust yoneticilere cari donemde saglanan
+
+Ucret ve benzeri menfaatlerin toplam tutari (5 Kisi )
+
+1.122.851,95 TL
+
+08. Amortisman hesaplama yontemleri ile bu yontemlerde yapilan
+
+degisikliklerin ddnemin amortisman giderlerinde meydana getirdigi
+
+artis (+) veya azalls (-) re 1 4 MERE x eA
+
+09. Maliyet hesaplama sistemleri (safha veya siparis) ve stok degerleme
+
+yontemleri (agirlikli ortalama maliyet, ilk giren ilk gikar,
+
+hareketli ortalama maliyet vb. gibi)
+
+:...SAFHA-ILK GIREN ILK CIKAR.........
+
+10. Varsa, tamamen veya kismen fiili stok sayimi! yapilamamasinin
+
+gerekceleri
+
+11. Yurt igi ve yurt digi satislar hesap kalemi iginde yer alan yan Urun,
+DIPNOT
+
+hurda, dokuntu gibi maddelerin satislari ile hizmet satislarinin ayri
+ayri toplamlarinin brit satislarinin %20'sini asmasi halinde bu madde
+
+ve hizmetlere iliskin tutarlart
+
+12. Onceki déneme iliskin gelir ve giderler ile Gnceki déneme ait gider
+ve zararlarin tutarlarint ve kaynaklarini gosteren agiklayici not
+
+:22222?.TL Gegmis Donem Giderleri
+
+13. Adi ve imtiyazli hisse senetleri icin ayri, ayr! gosterilmek
+
+kosuluyla, hisse basina kar ve kar pay! oranlar!
+
+KAR DAGITIM TABLOSU (TL)
+Onceki Dénem
+(2012)
+
+10.702.919,9500
+14.106.323,5700
+2.840.092,0400
+2.840.092,0400
+11.266.231,5300
+563.311,5800
+10.702.919,9500
+
+Aciklama
+
+|- DONEM KARININ DAGITIMI
+
+.1.1- DONEM KARI
+
+. 1.2- ODENECEK VERGI VE YASAL
+
+. 1.2.1- Kurumlar Vergisi (Gelir Vergisi)
+
+A- NET DONEM KARI (1.1-1.2)
+
+. 1.4- BIRINC] TERTIP YASAL YEDEK AKCE (-)
+
+B- DAGITILABILIR NET DONEM KARI [(A-(1.3+1.4+1.
+
+Cari Donem
+(2013)
+
+3.864.068,6600
+5.111.872,4900
+1.044.431,8000
+1.044.431,8000
+4.067.440,6900
+
+203.372,0300
+3.864.068,6600
+
+KESINTI YOLUYLA ODENEN VERGILERE ILISKIN LISTE
+
+T.C. Kimlik = Vergi Kimlik Kesilen Vergi
+Adi Soyadi/ Unvant Niu rrearexen Numarasi Dénemi
+
+AKBANK iMES TICARi SUBESI 0150015264 12/2013-12/2013
+ALTERNATIFBANK KARTAL 0600031541 12/2013-12/2013
+SUBESI
+
+ASYA KATILIM BANKASI
+
+KURTKOY SUBES! 0910068613 12/2013-12/2013
+ANADOLUBANK GEBZE SUBESI 0680113003 12/2013-12/2013
+BURGANBANK KOZYATAGI 1910581014  12/2013-12/2013
+SUBESI
+
+BENE SNE be LNG! GEE 2920084496 12/2013-12/2013
+
+BANKACILIK MERKEZI
+
+Toplam
+
+Odemenin Brit Tutari
+
+87.864,38
+
+12.745,05
+
+64.953,48
+
+86.886,71
+
+166.861,73
+
+168.425,08
+
+987.736,43
+
+Vergi Tutar1
+
+13.179,66
+
+1.911,75
+
+9.743,03
+
+13.033,00
+
+25.029,30
+
+25.263,75
+
+88.160,49
+
+KESINTI YOLUYLA ODENEN VERGILERE ILISKIN LISTE
+
+Adi Soyadi/ Unvani
+FINANSBANK GEBZE SUBESI
+
+GARANTI BANKAS! SAHRAYIDCEDID SUBESi
+
+HALKBANK ALTUNIZADE SUBESI
+
+ING BANK UMRANIYE SUBESI
+
+TURKIYE iS BANKASI |
+ALTUNIZADE TICARi SUBESI
+
+NUROLBANK MERKEZ SUBESI
+
+ODEABANK KOZYATAGI SUBESI
+
+SEKERBANK GOZTEPE SUBESI
+
+TURK EKONOMI BANKASI
+IST.ANADOLU KURUMSAL
+
+TURKLANDBANK GEBZE SUBESI
+
+TEKSTILBANK DALYAN SUBESI
+
+TURKIYE FINANS KATILIM
+BANKASI GEBZE SUBESI
+
+T.VAKIFLAR BANKASI
+RAHMANLAR SUBESI
+
+ZIRAAT BANKASI! GEBZE SUBESI
+KARAYOLLARI 14.BOLGE
+MUDURLUGU
+
+ANKARA BUYUKSEHIR
+BELEDIYESI
+
+ANKARA BUYUKSEHIR
+BELEDIYESI
+
+CENGIZ INSAAT SAN.VE TIC.A.S.
+
+GAMA NUROL ADi ORTAKLIGI
+
+MAKYOL iNSAAT A.S.
+
+NAS OZYURT iNSAAT AS.
+
+T.C. Kimlik
+
+Numarasi
+
+Vergi Kimlik
+
+Numarasi
+
+3880023334
+
+8790017566
+
+4560004685
+
+8760042143
+
+4810058590
+
+6320112010
+
+6340430464
+
+8010048575
+
+8760606484
+
+3890007105
+
+8360047728
+
+0680063870
+
+8150036066
+
+9980069675
+
+5230028756
+
+0690040398
+
+0690040398
+
+2060011753
+
+3880452951
+
+6100038993
+
+6290469840
+
+Kesilen Vergi
+
+Donemi
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+12/2013-12/2013
+
+Toplam
+
+Odemenin Brit Tutari
+
+223.567 ,93
+
+20.096,64
+
+739,73
+
+26.883,92
+
+5.753,42
+
+29.312,85
+
+83.440,07
+
+15.835,62
+
+29.054,80
+
+409.942,35
+
+46.080,46
+
+17.589,43
+
+34.972,59
+
+18.458,90
+
+3.867.557 ,20
+
+2.350.148,43
+
+2.038.864,80
+
+703.087 ,28
+
+352.830,15
+
+868.620,41
+
+386.019,60
+
+12.116.593,01
+
+Vergi Tutar1
+
+33.535,19
+
+3.014,55
+
+110,95
+
+4.051,93
+
+863,01
+
+4.396,80
+
+12.516,01
+
+2.375,34
+
+4.358 ,23
+
+61.491 ,34
+
+6.912,08
+
+2.638,41
+
+5.245,87
+
+2./68,84
+
+116.026,72
+
+70.504,45
+
+61.165,95
+
+21.092,62
+
+10.584,91
+
+26.058,62
+
+11.580,59
+
+949.452,90
+
+KURUM ORTAKLARINA VE YONETIM KURULU UYELERINE ILISKIN LISTE
+
+Maundy Ona forum, Yergcimie Soyeey ain Kametgah Adres kimik—ftBalBie
+0550066998 ALKUMRU OMER Camli Sk.Mlige Ap.No:29/5 Suadiyelistanbul 12001666406 2163628487 23,79
+* 0550069843 ALKUMRU Vefabey Sk.No:4 D:9 Gayrettepelistanbu «12007666288 2163628487 —«- 1,48
+: 4500034048 GUVEN ORHAN ties okits 16852836346 2163628487 1,14
+* 0530020972 ALKA PAZARLAMA VE TURIZMAS. — KeoyatsauKeaieviltianbu 2163628487 0,78
+* 9020125476 UZUN MUSTAFA ABKSD 11 Malterclictarbul  ° ~~ 17461608508 2163628487 3,58
+* 9520082368 YETER KADIR Kurfali Mh.Meri¢ Sk.No:9 Yakacik/istanbu. 28039862154 2163628487 4,40
+* 0550059704 ALKUMRU AKMAN K3 KouyatagiKadikoylistanbal 12022665778 2163628487 62,77
+0470057124 ALBOTEKSTIL SAN.TURTICAS. KoomisauKeakéviianbu 2163628487 2,06
+
+TRANSFER FIYATLANDIRMASI KAPSAMINDAKI ILISKILI KISILERE ILISKIN BILGILER
+Yurt Icinde Bulunan lliskili Kisi Adi- Vergi Kimlik T.C. Kimlik = Yurt Diginda Bulunan lliskili Kisi Adi Illiskili Kisinin
+Unvani Numaras! Numaras! -Unvani Bulundugu Ulke
+
+ALKA PAZARLAMA VE TURIZM A.S. 0530020972 ALKA EUROPE GMBH ALMANYA
+
+SANLIDSTh VE MADEN 6120052002
+
+ALBO TEKSTIL SAN.A.S. 0470057124
+
+BATU INSAAT TAAH.SAN.TIC.A.S. 1500037327
+
+OED NALA rognt ——_ Smta87
+
+voaS. R.TAAH.INS.SAN.VE 0010776934
+
+aNICAS DANISMANLIK 0500504221
+
+AE TAAH.NAK.INS.SAN.VE TIC.A.S. 0080809649
+
+AKMAN ALKUMRU 0550059704
+
+OMER ALKUMRU 0550066998
+
+ORHAN GUVEN 4500034048
+
+MUSTAFA UZUN 9020125476
+
+KADIR YETER 9520082368
+
+AL] ALKUMRU 0550069843
+
+NURAY ALKUMRU 0550132747
+
+MALI ISLEMLER AYRINTI
+
+Alim Ana Para(TL) Alim Faiz(TL) Satim Ana Para(TL) Satim Faiz(TL)
+1- Odting Para/Kredi-Faiz 12.498.788,18 4.408.910,92 346.228 ,52 906.847 ,82
+ILISKILI KISILERLE GERCEKLESTIRILEN TRANSFER FIYATLANDIRMASINA ILISKIN ISLEMLER
+Alim Satim Aciklama
+
+. A- Varliklar 34.776.262,45 41.110.280,99
+
+1- Hammadde-Yar! Mamul 34.740.400,28 0,00
+
+2- Mamul-Ticari Mallar 16.362,17 41.056.173,83
+
+4- Kiralamalar 19.500,00 54.107,16
+. B- Hizmetler 8.494 .855,02 0,00
+
+1- Insaat-Onarim-Teknik 2.183.000,00 0,00
+
+3- Komisyon 884.199, 38 0,00
+
+4- Diger(Belirtiniz) 5.427.655,64 0,00 Nakliye
+. C- Mali Islemler 16.907.699,10 1.253.076,34
+
+1- Odling Para/Kredi-Faiz 16.907.699,10 1.253.076 ,34
+. D- Diger Islemler 90.855,31 336.679,25
+
+2- Grup Ici Hizmetler 90.855,31 336.679,25
+I- Yapilan Islemlerin Toplami 60.269.671,88 42.700.036,58
+
+TRANSFER FIYATLANDIRMASINA KONU OLAN ISLEMLERDE KULLANILAN YONTEMLER
+Aciklama Alim Satim
+
+. Karsilastirilabilir Fiyat Yontemi 60.269.671,88 42.700.036,58
+
+Toplam Islem Tutart 60.269.671,88 42.700.036,58
+
+KURUMUN YURTDISI ISTIRAKLERINE ILISKIN BILGILER
+
+Illiskili Kiginin Bulundugu Ulke Kurumun Sermaye Oy veya Kar Yurtdisi Istirakin Gayrisafi
+Pay! Oran Hasilati
+
+YurtDist Istirakin Unvant
+
+ALKA EUROPE GMBH ALMANYA 99.00 16.755.071,54
+
+Toplam 16.755.071,54
+
+ORTULU SERMAYE UYGULAMASINA ILISKIN BILGILER
+
+Aciklama
+. Aktif Toplami
+. Toplam Borclar
+. Oz Sermaye Tutar!
+. Toplam Faiz Giderleri
+
+. Toplam Kur Farki Giderleri
+
+. Ortak veya Ortakla lliskili Kisilerden Temin Edilen Borclarin
+En Yuksek Oldugu Tarihteki Toplam Tutar1
+
+YABANCI PARA POZISYONUNA ILISKIN BILGILER
+
+Aciklama
+
+I-AKTIF (VARLIKLAR) YABANCI PARA TOPLAMI
+
+. 1.Kasa
+
+. 2.Bankalar
+
+.4.Kisa vadeli ticari alacaklar
+
+. 6.Kisa vadeli verilen siparis avanslari
+
+. 8.Diger doviz alacaklar!
+
+Il- PASIF (KAYNAKLAR) YABANCI PARA TOPLAMI
+
+. 1.Kisa Vadeli Mali Borglar
+
+1.1. Kisa vadeli banka kredileri
+
+. 2.Uzun Vadeli Mali Borglar
+
+2.1. Uzun vadeli banka kredileri
+
+. 3.Kisa vadeli ticari borglar
+
+. 4.Uzun vadeli ticari borglar
+
+5.Kisa vadeli alinan siparis avanslar
+
+USD($) TL Karsiligi
+
+16.638.162,0500
+
+2.437,7900
+
+4.150.863,6500
+
+2.868.827 ,5000
+
+0,0000
+
+9.616.033,1100
+
+80.834.500,1500
+
+32.089.200,5000
+
+32.089.200,5000
+
+20.652.553,9500
+
+20.652.553,9500
+
+27.115.333,8200
+
+776.001,8300
+
+201.410,0500
+
+EURO(€) TL Kasiligi
+
+20.190.361,4300
+
+3.967,3100
+
+391.772,0400
+
+19.591 .282,3400
+
+604,6300
+
+202.735,1100
+
+34.499.260,0300
+
+4.184.512,5000
+
+4.184.512,5000
+
+24.388.385,0000
+
+24.388.385,0000
+
+4.782.408, 1400
+
+1.085.416,2300
+
+58.538, 1600
+
+Tutar
+
+232.596.383,59
+
+169.792.665,54
+
+62.803.718,05
+
+0,00
+
+0,00
+
+12.498.788,18
+
+Diger Doviz Cinslerinin TL
+
+Karsilig!
+
+5.916,1400
+
+0,0000
+
+0,0000
+
+0,0000
+
+5.916,1400
+
+0,0000
+
+0,0000
+
+0,0000
+
+0,0000
+
+0,0000
+
+0,0000
+
+0,0000
+
+0,0000
+
+0,0000
+YABANCI PARA POZISYONUNA ILISKIN BILGILER
+
+Aciklama USD($) TL Karsiligi EURO(E) TL Kasiligs D!9er Doviz Cinslerinin TL
+
+Karsilig!
+
+Ill- NET BILANGO ICI YABANCI PARA -64.196.338,1000 -14.308.898,6000 5.916,1400
+POZISYONU (I-Il)
+
+V- NET YABANCI PARA POZISYONU (III+IV) -64.196.338,1000 -14.308.898,6000 5.916,1400
+
+KANUNEN KABUL EDILMEYEN GIDERLER
+Giderin Turu Tutar
+
+KVK m.11 hukUmlerine gore kabul edilmeyen giderler 62.200,9200
+Bagis ve yardimlar 50.200,0000
+6802 sayili Gider Vergileri Kanunu uyarinca gider yazilan ozel iletisim vergisi 21.089,2700
+MTV Kanunu m.14 uyarinca gider kaydedilen MTV'ler 26.996,3000
+
+TOPLAM 160.486,4900
