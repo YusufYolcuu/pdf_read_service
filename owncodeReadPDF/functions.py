@@ -34,15 +34,16 @@ def push_data(bbox_title):
     values_at_table.append(get_value(bbox_title))
 
 
-def pdf_scrape(pdf, title_arr, value_arr):
+def pdf_scrape(pdf, title_arr=None, value_arr=None):
+    if value_arr is None:
+        value_arr = values_at_table
+    if title_arr is None:
+        title_arr = titles_at_table
     dic = {}
     for i in range(len(title_arr)):
-
         title = pdf.pq(title_arr[i]).text()
         value = pdf.pq(value_arr[i]).text()
-
         print('-*-', pdf.pq(title_arr[i]).text(), pdf.pq(value_arr[i]).text())
-
         dic[title] = value
     return dic
 
@@ -62,13 +63,15 @@ def walk_on_page_check_value(bbx, y0=10, y1=15):
 
 
 def find_bbox_of_title(pdf, title):
-    label = pdf.pq('LTTextLineHorizontal:contains({})'.format(title))
+    # it returns the bbox position of the title
+    text = 'LTTextLineHorizontal:contains("' + title + '")'
+    label = pdf.pq(text)
     print(label)
-    left_corner = label.attr('x0')
-    print(left_corner)
-    # bottom_corner = float(label.attr('y0'))
-    # name = pdf.pq('LTTextLineHorizontal:in_bbox("%s, %s, %s, %s")' % ( left_corner, bottom_corner - 30, left_corner + 150, bottom_corner)).text()
-
-
-
-
+    x0 = float(label.attr('x0'))
+    y0 = float(label.attr('y0'))
+    x1 = float(label.attr('x1'))
+    # x1 = 220.0
+    y1 = float(label.attr('y1'))
+    bbox = str((int(x0))) + ',' + str(int(y0)) + ',' + str(int(x1)) + ',' + str(int(y1))
+    print(bbox)
+    return bbox
