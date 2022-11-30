@@ -1,0 +1,10 @@
+doğru okunan -> pages1, b4,  b5
+
+
+b1-> satır başı aynı başlıyan tablo satırların başlıklarını önce değerlerini sonra yazdırdı
+	 (.1 ... .1  ... \\ 1000.000 40.000 şeklinde)
+b4 -> tablo satır değer başlığı alt satıra taşarsa yanlış oluyor.
+	bize lazım olmayan hisselerin gösterildiği tabloda durum buydu.
+	lazım olan tablolar doğru okundu
+
+b2 -> bozuk pdf

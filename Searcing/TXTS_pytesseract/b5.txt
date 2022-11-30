@@ -1,0 +1,201 @@
+ZARAR KAR
+
+Ticari Bilango Kari veya Zarar!| 0,00 94.669,33
+Kanunen Kabul Edilmeyen Giderler 6.348,87
+Zarar Olsa Dahi Indirilecek Istisna ve Indirimler 0,00
+
+Kar ve llaveler Toplam! 101.018,20
+Zarar ve Indirimler Toplami 0,00
+
+Zarar 0,00
+
+Kar 101.018,20
+Mahsup Edilecek Gegmis YI Zararlari 2.689.418,45
+
+indirime Esas Tutar 0,00
+Toplam 0,00
+Donem Zarar! 0,00
+Isletmeden Cekilen Enflasyon Duzeltmesi Farklar! 0,00
+Safi Gegici Vergi Matrahi 0,00
+KVK’nin 32/A Mad. Kapsaminda Indirimli Kurumlar Vergisine (Gecici Vergiye) Tabi Matrah 0,00
+KVK’nin 32/A Mad. Kapsaminda Indirimli Kurumlar Vergisi (Gecici Vergi) Oran 0,000000
+KVK’nin Gecici 4 Mad. Kapsaminda Indirimli Kurumlar Vergisine (Gecici Vergiye) Tabi Matrah 0,00
+KVK’nin Gecici 4 Mad. Kapsaminda Indirimli Kurumlar Vergisi (Gecici Vergi) Oran 0
+Genel Orana Tabi Gecici Vergi Matrahi 0,00
+
+VERGI BILDIRIMI
+
+Gecici Vergi Matrahi 0,00
+Hesaplanan Gecici Vergi 0,00
+Onceki Dénemlerde Hesaplanan Gecici Vergi 0,00
+Odenmesi Gereken Gecici Vergi 0,00
+Mahsup Edilecek Yabanci Ulkelerde Odenen Vergi Tutar1 0,00
+Mahsup Edilecek Tevkifat Tutar1 0,00
+Mahsup Edilecek Gegici Vergi ve Tevkifat Tutar! Toplam! 0,00
+Odenecek Gecici Vergi 0,00
+Sonraki Doneme Devreden Yabanci Ulkelerde Odenen Vergi Tutar! 0,00
+Sonraki Doneme Devreden Tevkifat Tutar 0,00
+Sonraki Doneme Devreden Hesaplanan Gecici Vergi 0,00
+Damga Vergisi 46,80
+
+Kazancin Tespit Yontemi Bilango
+*************************************************************************************
+
+EKLER
+FATURA BILGILERI
+Merkez/ Matbaa/Noter Matbaa/Noter Fatura Tarihi Fatura Seri - Alici T.C. Alici Vergi Tutar!
+Sube ~—-‘T.C. Kimlik No ~~ Vergi Kimlik No Sira No Kimlik No Kimlik No
+Merkez 13721559474 31/03/2015 A-202357 6470337503 89.913,05
+Merkez 13721559474 31/03/2015 A-312670 6490515603 243.623,89
+Merkez 2930449136 28/02/2015 138880 9480073143 12.980,00
+TEK DUZEN HESAP PLANINA UYGUN GELIR TABLOSU (TL )
+Aciklama Cari Donem
+(2015)
+
+A. Brut Satislar 4.056.456,43
+. 1. Yurtigi Satislar 4.007.688,64
+. 3. Diger Gelirler 48.767,79
+B. Satis Indirimleri (-) 21.116,68
+. 1. Satistan ladeler (-) 21.116,68
+C.Net Satislar 4.035.339,75
+D. Satislarin Maliyeti (-) 3.453.437,47
+. 1. Satilan Mamuller Maliyeti (-) 2.921.823,25
+. 2. Satilan Ticari Mallar Maliyeti (-) 531.614,22
+Brut Satis Kari veya Zarar! 581.902,28
+E. Faaliyet Giderleri (-) 396.198,84
+. 2. Pazarlama, Satis ve Dagitim Giderleri (-) 156.776,53
+. 3. Genel Yonetim Giderleri (-) 239.422,31
+Faaliyet Kari veya Zarar| 185.703,44
+F. Diger Faaliyetlerden Olagan Gelir ve Karlar 15.415,06
+. f. Kambiyo Karlar1 15.415,06
+G. Diger Faaliyetlerden Olagan Gider ve Zararlar (-) 36.015,19
+. 4. Kambiyo Zararlari (-) 36.015,19
+H. Finansman Giderleri (-) 63.989,77
+. 1. Kisa Vadeli Borglanma Giderleri (-) 63.989,77
+Olagan Kar veya Zarar 101.113,54
+|. Olagan Disi Gelir ve Karlar 155,29
+
+
+***************************************************************************************
+
+
+TEK DUZEN HESAP PLANINA UYGUN GELIR TABLOSU (TL)
+
+Aciklama Cari Donem
+(2015)
+. 2. Diger Olagandisi Gelir ve Karlar 155,29
+J. Olagandis! Gider ve Zararlar (-) 6.599,50
+. 2. Onceki Dénem Gider ve Zararlari (-) 250,63
+. 3. Diger Olagandisi Gider ve Zararlar (-) 6.348,87
+Donem Kari veya Zarar 94.669,33
+Donem Net Kari veya Zararl 94.669 ,33
+
+DIPNOT
+
+OYLUM SINAI YATIRIMLAR A.S.
+
+01.01.2015 - 31.03.2015 DONEMI
+
+GELIR TABLOSU DIPNOTLARI
+
+1 Donemin tum amortisman giderleri ile itfa 0,00 TL
+
+ve tukenme paylari
+
+a) Amortisman Giderleri 0,00 TL
+
+aa) Normal amortisman giderleri
+
+bb) Yeniden Degerlemeden dogan
+
+amortisman giderleri
+
+b) Itfa ve tukenme paylari 0,00 TL
+
+2 Donemin Karsilik Giderleri 0,00 TL
+
+3 Donemin Finansman Giderleri 0,00 TL
+
+a) Uretim maliyetine verilenler 0,00 TL
+
+b) Sabit varliklarin maliyetine verileniler 0,00 TL
+
+c) Dogrudan gider yazilaniar 0,00 TL
+
+4 Donemin Finansman Giderlerinden ana 0,00 TL
+
+kurulus, ana ortaklik, muessese, bagll
+
+ortaklik ve istiraklerle ilgili kismin tutar1
+
+5 Ana kurulus, ana ortaklik, muessese, bagIl 0,00 TL
+
+DIPNOT
+
+ortaklik ve istiraklere yapilan satislar
+
+6 Ana kurulus, ana ortaklik, muessese, bagli 0,00 TL
+
+ortaklik ve istiraklerden alinan ve bunlara
+
+Odenen faiz kira benzerleri
+
+7 Yonetim kurulu baskan Uyeleriyle genel 51.366,96 TL
+
+mudur yardimcilari gibi ust duzey yoneticile
+re cari donemde saglanan Uucret ve benzeri
+
+menfaatlerin toplam
+
+8 Amortisman hesaplama yontemleri ile Amortisman yontemi normal olup
+
+bu yontemlerde yapilan degisikliklerin Amortisman hesaplanmamistir.
+
+dénem amortisman giderlerinde mey- | Onceki dénem amortisman yénteminde
+
+dana getirdigi artis(+) veya azalis(-) | degisiklik olmamistir.
+
+9 Maliyet hesaplama sistemleri (safha veya
+
+siparis) ve stok degerleme yontemleri §_ Maliyetler safha maliyet sistemine
+
+(agirlikli ortalama,maliyet, ilk giren ilk gikar, | Stoklar ortalama maliyet yontemine
+
+hareketli ortalama maliyet v.s. gibi) gore hesaplanmistir.
+
+10 Varsa tamamen veya kismen fiili stok Fiili stok sayimi yapilmistir.
+
+sayim! yapiImamasinin gerekceleri
+
+11 Yurt ici ve Yurt digi satislar hesap kalemi Yan urun ,hurda dokuntu ve hizmet
+
+igerisinde yer alan yan UrUn, hurda, dokuntu satislarinin ayri ayri toplamlari brut
+
+gibi maddelerin satislari ile hizmet satislarinin — satislarin % 20 sini asmamaktadir.
+
+ayri ayri toplamalarinin brut satislarin %20'si
+DIPNOT
+
+ni asmasi halinde bu madde ve hizmetlere
+
+iliskin tutarlar!
+
+12 Onceki dénemlere iliskin gelir ve karlar ile = Yoktur
+
+Onceki doneme ait gider ve zararlarin tutarla
+rini ve kaynaklari gosteren agiklayici not
+
+13 Adi ve imtiyazl! hisse senetleri icin ayri ayri
+
+gosterilmek kosuluyla, hisse basina kar ve _——Yoktur.
+
+kar pay! oranlar
+
+KANUNEN KABUL EDILMEYEN GIDERLER
+
+Giderin Turu Tutar
+KVK m.11 hukumlerine gore kabul edilmeyen giderler 4.757,1300
+6802 sayill Gider Vergileri Kanunu uyarinca gider yazilan 6zel iletisim vergisi 439,7400
+MTV Kanunu m.14 uyarinca gider kaydedilen MTV'ler 1.152,0000
+
+TOPLAM 6.348,8700
