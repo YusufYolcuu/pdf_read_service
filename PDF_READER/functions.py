@@ -77,8 +77,8 @@ def push_data2(pdf, bbox_title):
         value1 = get_first_column_of_two_table(bbox_title)
         value2 = get_second_column_of_two_table(bbox_title)
         dictin = {}
-        dictin['2012'] = pdf.pq(value1).text()
-        dictin['2013'] = pdf.pq(value2).text()
+        dictin['2018'] = pdf.pq(value1).text()
+        dictin['2019'] = pdf.pq(value2).text()
         values_at_table_two_columns[pdf.pq(to_xmltag(bbox_title)).text()] = dictin
 
 
@@ -91,22 +91,21 @@ def pdf_scrape(pdf, title_arr=None, value_arr=None, two_column_value=None):
         two_column_value = values_at_table_two_columns
     dic = {}
 
-    # for one column value
+    # for one column value, add arrays to dictionary
     for i in range(len(title_arr)):
         if pdf.pq(value_arr[i]).text() != '':
             title = pdf.pq(title_arr[i]).text()
             value = pdf.pq(value_arr[i]).text()
-            # print('-*-', pdf.pq(title_arr[i]).text(), pdf.pq(value_arr[i]).text())
             dic[title] = value
         else:
-            print('-' * 60, "\nthere is not a value of this title. "
-                            "the reasons of it maybe \n"
-                            "    there is not a each character like that in pdf\n"
-                            "    it is not a member of a table.\n"
-                            "    or the table's template is different. more than 2 columns")
+            print("there is not a value of this title. "
+                  "the reasons of it maybe \n"
+                  "    there is not a each character like that in pdf\n"
+                  "    it is not a member of a table.\n"
+                  "    or the table's template is different. more than 2 columns")
             print('-' * 60)
 
-    # for two column value
+    # for two column. add values to dictionary
     for key in two_column_value:
         dic[key] = two_column_value[key]
     return dic
@@ -144,10 +143,6 @@ def find_bbox_of_title(pdf, title):
         bbox = 0
         # print('(' + title + ')\nthere is not a word or sentences like this at page', page_number)
     return bbox
-
-
-def get_three_columns_title(pdf, title):
-    pass
 
 
 # ************************************ Test functions ********************************
